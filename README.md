@@ -12,9 +12,9 @@ Feel free to reach out to me on Twitter or LinkedIn.
 
 ## Jobs, education, certifications
 
-See [LinkedIn](https://www.linkedin.com/in/valdemar-car%C3%B8e/)
+See [LinkedIn](https://www.linkedin.com/in/valdemar-car%C3%B8e/).
 
 ## Published talks
 
 **2024**
-- 2024/11/08 - BSides Copenhagen - [Compromising Entra ID from the on-premises Active Directory in hybrid environments](https://vimeo.com/showcase/11519703/video/1044549159)
+- 2024/11/08 - BSides Copenhagen - [Compromising Entra ID (from the on-premises Active Directory in hybrid environments)](https://vimeo.com/showcase/11519703/video/1044549159)
