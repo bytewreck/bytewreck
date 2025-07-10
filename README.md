@@ -21,12 +21,12 @@ See [LinkedIn](https://www.linkedin.com/in/valdemar-car%C3%B8e/).
 
 ## Stats
 
-<div style="display: flex;">
- <picture>
+<div style="display: flex; flex-direction: row;">
+ <picture style="align-self: stretch;">
    <img class="img" src="https://github-readme-stats.vercel.app/api?username=bytewreck&theme=tokyonight&show_icons=true" />
  </picture>
  &nbsp; &nbsp;
- <picture style="align-self: center">
-   <img class="img" style="align-self: center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bytewreck&theme=tokyonight&layout=compact&show_icons=true" />
+ <picture style="align-self: center;">
+   <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bytewreck&theme=tokyonight&layout=compact&show_icons=true" />
  </picture>
 </div>
