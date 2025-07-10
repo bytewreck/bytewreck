@@ -22,7 +22,7 @@ See [LinkedIn](https://www.linkedin.com/in/valdemar-car%C3%B8e/).
 ## Stats
 
 <div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=bytewreck&show_icons=true&theme=radical" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=bytewreck&theme=tokyonight&show_icons=true" />
  &nbsp; &nbsp;
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bytewreck&theme=radical&layout=compact&show_icons=true" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bytewreck&theme=tokyonight&layout=compact&show_icons=true" />
 </div>
