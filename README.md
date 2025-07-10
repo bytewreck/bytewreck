@@ -18,3 +18,10 @@ See [LinkedIn](https://www.linkedin.com/in/valdemar-car%C3%B8e/).
 
 **2024**
 - 2024/11/08 - BSides Copenhagen - [Compromising Entra ID (from the on-premises Active Directory in hybrid environments)](https://vimeo.com/showcase/11519703/video/1044549159)
+
+## Stats
+
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=bytewreck&show_icons=true&theme=radical" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bytewreck&theme=radical&layout=compact&show_icons=true" />
+</div>
