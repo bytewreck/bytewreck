@@ -21,7 +21,7 @@ See [LinkedIn](https://www.linkedin.com/in/valdemar-car%C3%B8e/).
 
 ## Stats
 
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex; flex-direction: row; height: 100%;">
  <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=bytewreck&show_icons=true&theme=tokyonight"
