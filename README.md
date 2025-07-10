@@ -26,9 +26,9 @@ See [LinkedIn](https://www.linkedin.com/in/valdemar-car%C3%B8e/).
    <img class="img" src="https://github-readme-stats.vercel.app/api?username=bytewreck&theme=tokyonight&show_icons=true" />
  </picture>
  &nbsp; &nbsp;
- <picture>
    <div style="align-self: center">
+ <picture>
     <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bytewreck&theme=tokyonight&layout=compact&show_icons=true" />
-   </div>
  </picture>
+   </div>
 </div>
