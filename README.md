@@ -21,7 +21,7 @@ See [LinkedIn](https://www.linkedin.com/in/valdemar-car%C3%B8e/).
 
 ## Stats
 
-<div style="display: flex; flex-direction: row; height: 100%;">
+<div style="display: flex; flex-direction: row;">
  <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=bytewreck&show_icons=true&theme=tokyonight"
@@ -34,7 +34,7 @@ See [LinkedIn](https://www.linkedin.com/in/valdemar-car%C3%B8e/).
   <img class="img" src="https://github-readme-stats.vercel.app/api?username=bytewreck&show_icons=true" />
  </picture>
  &nbsp; &nbsp;
- <picture style="height: 50%; align-self: center;">
+ <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bytewreck&show_icons=true&layout=compact&theme=tokyonight"
     media="(prefers-color-scheme: dark)"
