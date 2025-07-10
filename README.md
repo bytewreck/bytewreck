@@ -34,11 +34,17 @@ See [LinkedIn](https://www.linkedin.com/in/valdemar-car%C3%B8e/).
   <img src="https://github-readme-stats.vercel.app/api?username=bytewreck&show_icons=true" />
  </picture>
  
- <picture>
-   <img class="img" src="https://github-readme-stats.vercel.app/api?username=bytewreck&show_icons=true&theme=tokyonight" />
- </picture>
  &nbsp; &nbsp;
+
  <picture>
-    <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bytewreck&theme=tokyonight&layout=compact&show_icons=true" />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bytewreck&show_icons=true&layout=compact&theme=tokyonight"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bytewreck&show_icons=true&layout=compact"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bytewreck&show_icons=true&layout=compact" />
  </picture>
 </div>
