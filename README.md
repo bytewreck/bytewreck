@@ -22,9 +22,11 @@ See [LinkedIn](https://www.linkedin.com/in/valdemar-car%C3%B8e/).
 ## Stats
 
 <div style="display: flex; flex-direction: row;">
+   <div style="align-self: center">
  <picture>
    <img class="img" src="https://github-readme-stats.vercel.app/api?username=bytewreck&theme=tokyonight&show_icons=true" />
  </picture>
+   </div>
  &nbsp; &nbsp;
    <div style="align-self: center">
  <picture>
