@@ -23,5 +23,6 @@ See [LinkedIn](https://www.linkedin.com/in/valdemar-car%C3%B8e/).
 
 <div style="display: flex; flex-direction: row;">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=bytewreck&show_icons=true&theme=radical" />
+ &nbsp; &nbsp;
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bytewreck&theme=radical&layout=compact&show_icons=true" />
 </div>
