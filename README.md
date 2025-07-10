@@ -31,7 +31,7 @@ See [LinkedIn](https://www.linkedin.com/in/valdemar-car%C3%B8e/).
     srcset="https://github-readme-stats.vercel.app/api?username=bytewreck&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img class="img" src="https://github-readme-stats.vercel.app/api?username=bytewreck&show_icons=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bytewreck&show_icons=true" />
  </picture>
  &nbsp; &nbsp;
  <picture>
@@ -43,6 +43,6 @@ See [LinkedIn](https://www.linkedin.com/in/valdemar-car%C3%B8e/).
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bytewreck&show_icons=true&layout=compact"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bytewreck&show_icons=true&layout=compact" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bytewreck&show_icons=true&layout=compact" />
  </picture>
 </div>
