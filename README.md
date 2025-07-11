@@ -4,52 +4,52 @@ My name is Valdemar, and I work as a security researcher on the research team at
 I have a background in cybersecurity consulting, with a focus on red teaming / adversary simulation. My experience includes breaking into and helping secure client environments, giving me a well-rounded perspective on offensive and defensive security. 
 
 ## Online presence
-
-<div>
- <picture>
-  <source
-    srcset=".github/github-light.svg"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset=".github/github-dark.svg"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img align="center" src=".github/github-dark.svg" />
- </picture>
- <a href="https://github.com/bytewreck">GitHub</a>
-</div>
-
-<div>
- <picture>
-  <source
-    srcset=".github/twitter-x-light.svg"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset=".github/twitter-x-dark.svg"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img align="center" src=".github/twitter-x-dark.svg" />
- </picture>
- <a href="https://twitter.com/bytewreck">Twitter</a>
-</div>
-
-<div>
- <picture>
-  <source
-    srcset=".github/linkedin-light.svg"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset=".github/linkedin-dark.svg"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img align="center" src=".github/linkedin-dark.svg" />
- </picture>
- <a href="https://www.linkedin.com/in/valdemar-car%C3%B8e/">LinkedIn</a>
-</div>
-
+<p>
+ <div>
+  <picture>
+   <source
+     srcset=".github/github-light.svg"
+     media="(prefers-color-scheme: dark)"
+   />
+   <source
+     srcset=".github/github-dark.svg"
+     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+   />
+   <img align="center" src=".github/github-dark.svg" />
+  </picture>
+  <a href="https://github.com/bytewreck">GitHub</a>
+ </div>
+ 
+ <div>
+  <picture>
+   <source
+     srcset=".github/twitter-x-light.svg"
+     media="(prefers-color-scheme: dark)"
+   />
+   <source
+     srcset=".github/twitter-x-dark.svg"
+     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+   />
+   <img align="center" src=".github/twitter-x-dark.svg" />
+  </picture>
+  <a href="https://twitter.com/bytewreck">Twitter</a>
+ </div>
+ 
+ <div>
+  <picture>
+   <source
+     srcset=".github/linkedin-light.svg"
+     media="(prefers-color-scheme: dark)"
+   />
+   <source
+     srcset=".github/linkedin-dark.svg"
+     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+   />
+   <img align="center" src=".github/linkedin-dark.svg" />
+  </picture>
+  <a href="https://www.linkedin.com/in/valdemar-car%C3%B8e/">LinkedIn</a>
+ </div>
+</p>
 
 Feel free to reach out to me on Twitter or LinkedIn.
 
