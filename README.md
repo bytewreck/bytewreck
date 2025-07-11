@@ -17,7 +17,7 @@ I have a background in cybersecurity consulting, with a focus on red teaming / a
    />
    <img align="center" src=".github/github-dark.svg" />
   </picture>
-  <a href="https://github.com/bytewreck">GitHub</a>
+  <a align="center" href="https://github.com/bytewreck">GitHub</a>
  </li>
  
  <li>
