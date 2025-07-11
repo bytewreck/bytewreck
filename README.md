@@ -32,7 +32,7 @@ I have a background in cybersecurity consulting, with a focus on red teaming / a
    />
    <img align="center" src=".github/twitter-x-dark.svg" />
   </picture>
-  <a href="https://twitter.com/bytewreck">Twitter</a>
+  <a align="center" href="https://twitter.com/bytewreck">Twitter</a>
  </li>
  
  <li>
@@ -47,7 +47,7 @@ I have a background in cybersecurity consulting, with a focus on red teaming / a
    />
    <img align="center" src=".github/linkedin-dark.svg" />
   </picture>
-  <a href="https://www.linkedin.com/in/valdemar-car%C3%B8e/">LinkedIn</a>
+  <a align="center" href="https://www.linkedin.com/in/valdemar-car%C3%B8e/">LinkedIn</a>
  </li>
 </ul>
 
