@@ -49,6 +49,21 @@ I have a background in cybersecurity consulting, with a focus on red teaming / a
   </picture>
   <a align="center" href="https://www.linkedin.com/in/valdemar-car%C3%B8e/">LinkedIn</a>
  </li>
+ 
+ <li>
+  <picture>
+   <source
+     srcset=".github/medium-light.svg"
+     media="(prefers-color-scheme: dark)"
+   />
+   <source
+     srcset=".github/medium-dark.svg"
+     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+   />
+   <img align="center" src=".github/medium-dark.svg" />
+  </picture>
+  <a align="center" href="https://medium.com/@valdemarcaroee">Medium</a>
+ </li>
 </ul>
 
 Feel free to reach out to me on Twitter or LinkedIn.
