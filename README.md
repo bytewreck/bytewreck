@@ -5,8 +5,8 @@ I have a background in cybersecurity consulting, with a focus on red teaming / a
 
 ## Online presence
 - ![GitHub](.github/github-light.svg) [GitHub](https://github.com/bytewreck)
-- [Twitter](https://twitter.com/bytewreck)
-- [LinkedIn](https://www.linkedin.com/in/valdemar-car%C3%B8e/)
+- ![Twitter](.github/twitter-x-light.svg) [Twitter](https://twitter.com/bytewreck)
+- ![LinkedIn](.github/linkedin-light.svg) [LinkedIn](https://www.linkedin.com/in/valdemar-car%C3%B8e/)
 
 Feel free to reach out to me on Twitter or LinkedIn.
 
