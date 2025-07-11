@@ -4,37 +4,11 @@ My name is Valdemar, and I work as a security researcher on the research team at
 I have a background in cybersecurity consulting, with a focus on red teaming / adversary simulation. My experience includes breaking into and helping secure client environments, giving me a well-rounded perspective on offensive and defensive security. 
 
 ## Online presence
-- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) [GitHub](https://github.com/bytewreck)
+- ![GitHub](.github/github-light.svg) [GitHub](https://github.com/bytewreck)
 - [Twitter](https://twitter.com/bytewreck)
 - [LinkedIn](https://www.linkedin.com/in/valdemar-car%C3%B8e/)
 
 Feel free to reach out to me on Twitter or LinkedIn.
-
-<div style="display: flex; flex-direction: row;">
- <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=bytewreck&show_icons=true&theme=tokyonight"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=bytewreck&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bytewreck&show_icons=true" />
- </picture>
- &nbsp; &nbsp;
- <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bytewreck&show_icons=true&layout=compact&theme=tokyonight"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bytewreck&show_icons=true&layout=compact"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bytewreck&show_icons=true&layout=compact" />
- </picture>
-</div>
 
 ## Jobs, education, certifications
 
