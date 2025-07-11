@@ -3,6 +3,32 @@ My name is Valdemar, and I work as a security researcher on the research team at
 
 I have a background in cybersecurity consulting, with a focus on red teaming / adversary simulation. My experience includes breaking into and helping secure client environments, giving me a well-rounded perspective on offensive and defensive security. 
 
+<div style="display: flex; flex-direction: row;">
+ <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=bytewreck&show_icons=true&theme=tokyonight"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=bytewreck&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bytewreck&show_icons=true" />
+ </picture>
+ &nbsp; &nbsp;
+ <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bytewreck&show_icons=true&layout=compact&theme=tokyonight"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bytewreck&show_icons=true&layout=compact"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bytewreck&show_icons=true&layout=compact" />
+ </picture>
+</div>
+
 ## Online presence
 - [GitHub](https://github.com/bytewreck)
 - [Twitter](https://twitter.com/bytewreck)
