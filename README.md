@@ -20,7 +20,20 @@ I have a background in cybersecurity consulting, with a focus on red teaming / a
  <a href="https://github.com/bytewreck">GitHub</a>
 </div>
 
-![Twitter](.github/twitter-x-light.svg) [Twitter](https://twitter.com/bytewreck)
+<div>
+ <picture>
+  <source
+    srcset=".github/twitter-x-light.svg"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset=".github/twitter-x-dark.svg"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img align="center" src=".github/twitter-x-dark.svg" />
+ </picture>
+ <a href="https://twitter.com/bytewreck">Twitter</a>
+</div>
 
 ![LinkedIn](.github/linkedin-light.svg) [LinkedIn](https://www.linkedin.com/in/valdemar-car%C3%B8e/)
 
