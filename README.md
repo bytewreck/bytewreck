@@ -16,7 +16,8 @@ I have a background in cybersecurity consulting, with a focus on red teaming / a
  />
  <img align="center" src=".github/github-light.svg" />
 </picture>
- [GitHub](https://github.com/bytewreck)
+
+[GitHub](https://github.com/bytewreck)
 
 ![Twitter](.github/twitter-x-light.svg) [Twitter](https://twitter.com/bytewreck)
 
