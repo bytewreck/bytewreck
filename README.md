@@ -5,19 +5,20 @@ I have a background in cybersecurity consulting, with a focus on red teaming / a
 
 ## Online presence
 
-<picture>
- <source
-   srcset=".github/github-light.svg"
-   media="(prefers-color-scheme: dark)"
- />
- <source
-   srcset=".github/github-light.svg"
-   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
- />
- <img align="center" src=".github/github-light.svg" />
-</picture>
-
-[GitHub](https://github.com/bytewreck)
+<div>
+ <picture>
+  <source
+    srcset=".github/github-light.svg"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset=".github/github-dark.svg"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img align="center" src=".github/github-dark.svg" />
+ </picture>
+ <a href="https://github.com/bytewreck">GitHub</a>
+</div>
 
 ![Twitter](.github/twitter-x-light.svg) [Twitter](https://twitter.com/bytewreck)
 
