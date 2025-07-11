@@ -4,9 +4,9 @@ My name is Valdemar, and I work as a security researcher on the research team at
 I have a background in cybersecurity consulting, with a focus on red teaming / adversary simulation. My experience includes breaking into and helping secure client environments, giving me a well-rounded perspective on offensive and defensive security. 
 
 ## Online presence
-- ![GitHub](.github/github-light.svg) [GitHub](https://github.com/bytewreck)
-- ![Twitter](.github/twitter-x-light.svg) [Twitter](https://twitter.com/bytewreck)
-- ![LinkedIn](.github/linkedin-light.svg) [LinkedIn](https://www.linkedin.com/in/valdemar-car%C3%B8e/)
+![GitHub](.github/github-light.svg) [GitHub](https://github.com/bytewreck)
+![Twitter](./tgithubwitter-x-light.svg) [Twitter](https://twitter.com/bytewreck)
+![LinkedIn](.github/linkedin-light.svg) [LinkedIn](https://www.linkedin.com/in/valdemar-car%C3%B8e/)
 
 Feel free to reach out to me on Twitter or LinkedIn.
 
