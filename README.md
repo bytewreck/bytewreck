@@ -50,6 +50,7 @@ I have a background in cybersecurity consulting, with a focus on red teaming / a
  <a href="https://www.linkedin.com/in/valdemar-car%C3%B8e/">LinkedIn</a>
 </div>
 
+
 Feel free to reach out to me on Twitter or LinkedIn.
 
 ## Jobs, education, certifications
