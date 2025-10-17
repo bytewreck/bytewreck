@@ -62,7 +62,7 @@ I have a background in cybersecurity consulting, with a focus on red teaming / a
    />
    <img align="center" src=".github/medium-dark.svg" />
   </picture>
-  <a align="center" href="https://medium.com/@valdemarcaroee">Medium</a>
+  <a align="center" href="https://specterops.io/blog/author/vcaroespecterops-io/">Blog</a>
  </li>
 </ul>
 
