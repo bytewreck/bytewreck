@@ -1,7 +1,7 @@
 ## Hi there 👋
 My name is [Valdemar](https://github.com/bytewreck), and I work as a security researcher on the research team at [SpecterOps](https://specterops.io/). I have a passion for dissecting software to understand its inner workings as well as an odd habit of optimizing proof-of-concept code for no apparent reason.
 
-I have a background in cybersecurity consulting, with a focus on red teaming / adversary simulation. My experience includes breaking into and helping secure client environments, giving me a well-rounded perspective on offensive and defensive security. 
+I have a background in cybersecurity consulting, with a focus on red teaming and adversary simulation. My experience includes breaking into and helping secure client environments, giving me a well-rounded perspective on offensive and defensive security. 
 
 ## Online presence
 <ul>
