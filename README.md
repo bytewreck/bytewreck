@@ -77,12 +77,12 @@ See [LinkedIn](https://www.linkedin.com/in/valdemar-car%C3%B8e/).
 **2026**
 | Date | Conference/Venue | Presentation |
 | ---- | ---------------- | ------------ |
-| 2026/04/13 | SO-CON | Catching Credential Guard Off Guard |
+| April 13th | SO-CON | Catching Credential Guard Off Guard |
 
 **2024**
 | Date | Conference/Venue | Presentation |
 | ---- | ---------------- | ------------ |
-| 2024/11/08 | BSides Copenhagen | [Compromising Entra ID (from the on-premises Active Directory in hybrid environments)](https://vimeo.com/showcase/11519703/video/1044549159) |
+| November 8th | BSides Copenhagen | [Compromising Entra ID (from the on-premises Active Directory in hybrid environments)](https://vimeo.com/showcase/11519703/video/1044549159) |
 
 ## Stats
 
