@@ -78,7 +78,7 @@ See [LinkedIn](https://www.linkedin.com/in/valdemar-car%C3%B8e/).
 | Date | Conference/Venue | Presentation |
 | :--: | :--------------: | ------------ |
 | June 5th | BSides Kristiansand | Catching Credential Guard Off Guard |
-| April 13th | [SO-CON](https://specterops.io/so-con/) | Catching Credential Guard Off Guard |
+| April 13th | [SO-CON](https://specterops.io/so-con/) | [Catching Credential Guard Off Guard](https://www.youtube.com/watch?v=GyIBZ6lS0CQ) |
 
 **2024**
 | Date | Conference/Venue | Presentation |
